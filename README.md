@@ -1,4 +1,6 @@
 Connection to the Larger Field of Computer Science
+
+What do computer scientists do, and why does it matter?
 Computer scientists write, build, and refine software systems and intelligent algorithms that address real-world issues. What they write makes a difference because it sparks innovation in healthcare, finance, education, entertainment, and technology. Computer scientists make life easier, more accessible, and safer each day. For this project, I applied reinforcement learning to demonstrate how AI makes decisions, learns, and navigates sophisticated worlds — capabilities at the heart of creating wiser, more flexible technologies.
 
 What is the computer scientist's approach to a problem?
